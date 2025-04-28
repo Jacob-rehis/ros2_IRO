@@ -1,0 +1,8 @@
+[console_scripts]
+alphabet_publisher = turtle_mover.alphabet_publisher:main
+go_to_cross = turtle_mover.go_to_cross:main
+mover = turtle_mover.mover:main
+position_publisher = turtle_mover.position_publisher:main
+turn_client = turtle_mover.turn_client:main
+turn_service = turtle_mover.turn_service:main
+
